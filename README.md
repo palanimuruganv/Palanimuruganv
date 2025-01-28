@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there 👋 I'm V Palanimurugan
 
-<!--
-**palanimuruganv/Palanimuruganv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Developer | Tech Enthusiast**
 
-Here are some ideas to get you started:
+- 🎓 Currently pursuing my degree in B.Tech AI&DS.  
+- 💻 Passionate about building solutions that make a difference.  
+- 📚 Actively learning **REACT JS**.  
+- 🚀 Open to collaborating on exciting projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Skills
+- **Programming Languages:**  Java , JavaScript,pYTHON
+- **Frameworks & Tools:** React.js, Node.js, Flask 
+- **Databases:** MongoDB, MySQL
+
+---
+
+## 🌟 Projects
+- **[BrainTumor Deduction](#)**: I have done a DL Project
+- **[Sentimental Analysis](#)**: I have done MAchine Learning Project in Sentimental analysis with 2or   
+
+---
+
+## 📫 Connect with Me
+[![LinkedIn](https://www.linkedin.com/in/palanimurugan-v-09112004k/)](#)  
+[![GitHub](https://github.com/palanimuruganv/Palanimuruganv/)]()  
+
+---
+
+Thank you for visiting my profile! 😄
